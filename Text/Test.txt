@@ -1,0 +1,10 @@
+java
+AWT
+GUI
+try
+Label
+Swing
+repaint
+event
+run
+input
