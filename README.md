@@ -1,6 +1,6 @@
 ## Java를 자바먹자!
 2023-1 숙명여자대학교 객체지향프로그래밍 텀프로젝트 과제
-<img width="812" alt="스크린샷 2023-07-07 오후 8 26 47" src="https://github.com/JIMIN1020/java-typing-game/assets/121474189/2f7d5e26-8e38-4eed-831b-3948fb3021e4">
+<img width="712" alt="스크린샷 2023-07-07 오후 8 26 47" src="https://github.com/JIMIN1020/java-typing-game/assets/121474189/2f7d5e26-8e38-4eed-831b-3948fb3021e4">
 <img width="1312" alt="스크린샷 2023-07-07 오후 8 39 49" src="https://github.com/JIMIN1020/java-typing-game/assets/121474189/73b17a2f-fdc4-4efb-9437-13afe45c6a2c">
 
 <br />
@@ -29,3 +29,13 @@
 
 이 빨간색 단어는 일반 단어들과 달리 2번 입력하여 제거해야하는 특징을 가지고 있다.
 
+
+<br />
+
+## 나의 개발 파트
+- 주요 thread 구현 (GameManager, WordGenerator, WordRain)
+- 주요 method 구현 (gameOver, nextLevel, restart, quiz 등)
+- 게임 운영에 필요한 클래스 구현 (WordStorage, GameInfo 등))
+- File I/O 처리
+
+<br />
