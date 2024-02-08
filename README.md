@@ -38,10 +38,3 @@
 
 <br />
 
-## 나의 개발 파트
-- 주요 thread 구현 (GameManager, WordGenerator, WordRain)
-- 주요 method 구현 (gameOver, nextLevel, restart, quiz 등)
-- 게임 운영에 필요한 클래스 구현 (WordStorage, GameInfo 등))
-- File I/O 처리
-
-<br />
